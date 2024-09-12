@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../proyecto 1 stiven"
+		},
+		{
+			"path": "../python"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "mi primer formulario",
+		"liveServer.settings.port": 5502
+	}
+}
